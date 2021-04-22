@@ -7,10 +7,8 @@
 
 
  
-ㅤㅤㅤㅤㅤㅤㅤ  
-[![Kakashi ](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://mikiadarsh25.me)  
-ㅤㅤㅤㅤㅤㅤㅤ  
-[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/mikiadarsh25/subextractor/blob/main/COPYING)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/mikiadarsh25/subextractor)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ  
+ [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/mikiadarsh25/subextractor)
 
 
 #### This Bot can extract audios and subtitles from video files.
