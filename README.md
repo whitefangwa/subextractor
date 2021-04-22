@@ -6,13 +6,6 @@
 
 
 
-  </a>
-  
-  <a href="https://github.com/mikiadarsh25/subextractor/fork">
-    <img src="https://img.shields.io/github/forks/mikiadarsh25/subextractor?label=Fork&style=social">
-
-  </a>  
-</p>
  
 ㅤㅤㅤㅤㅤㅤㅤ  
 [![Kakashi ](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://mikiadarsh25.me)  
