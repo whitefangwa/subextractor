@@ -4,7 +4,7 @@
 
 
 from pyrogram import filters
-from pyrogram import Client as mikiadarsh25
+from pyrogram import Client as trojanz
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 from config import Config
